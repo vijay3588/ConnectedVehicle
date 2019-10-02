@@ -1,0 +1,17 @@
+C:\Users\vpalani2\source\repos\ConnectedVehicle\ConnectVehicle.Service\bin\Debug\netcoreapp2.1\ConnectVehicle.Service.deps.json
+C:\Users\vpalani2\source\repos\ConnectedVehicle\ConnectVehicle.Service\bin\Debug\netcoreapp2.1\ConnectVehicle.Service.runtimeconfig.json
+C:\Users\vpalani2\source\repos\ConnectedVehicle\ConnectVehicle.Service\bin\Debug\netcoreapp2.1\ConnectVehicle.Service.runtimeconfig.dev.json
+C:\Users\vpalani2\source\repos\ConnectedVehicle\ConnectVehicle.Service\bin\Debug\netcoreapp2.1\ConnectVehicle.Service.dll
+C:\Users\vpalani2\source\repos\ConnectedVehicle\ConnectVehicle.Service\bin\Debug\netcoreapp2.1\ConnectVehicle.Service.pdb
+C:\Users\vpalani2\source\repos\ConnectedVehicle\ConnectVehicle.Service\bin\Debug\netcoreapp2.1\ConnectVehicle.Data.dll
+C:\Users\vpalani2\source\repos\ConnectedVehicle\ConnectVehicle.Service\bin\Debug\netcoreapp2.1\ConnectVehicle.Data.pdb
+C:\Users\vpalani2\source\repos\ConnectedVehicle\ConnectVehicle.Service\obj\Debug\netcoreapp2.1\ConnectVehicle.Service.csprojAssemblyReference.cache
+C:\Users\vpalani2\source\repos\ConnectedVehicle\ConnectVehicle.Service\obj\Debug\netcoreapp2.1\ConnectVehicle.Service.csproj.CoreCompileInputs.cache
+C:\Users\vpalani2\source\repos\ConnectedVehicle\ConnectVehicle.Service\obj\Debug\netcoreapp2.1\ConnectVehicle.Service.RazorAssemblyInfo.cache
+C:\Users\vpalani2\source\repos\ConnectedVehicle\ConnectVehicle.Service\obj\Debug\netcoreapp2.1\ConnectVehicle.Service.RazorAssemblyInfo.cs
+C:\Users\vpalani2\source\repos\ConnectedVehicle\ConnectVehicle.Service\obj\Debug\netcoreapp2.1\ConnectVehicle.Service.AssemblyInfoInputs.cache
+C:\Users\vpalani2\source\repos\ConnectedVehicle\ConnectVehicle.Service\obj\Debug\netcoreapp2.1\ConnectVehicle.Service.AssemblyInfo.cs
+C:\Users\vpalani2\source\repos\ConnectedVehicle\ConnectVehicle.Service\obj\Debug\netcoreapp2.1\ConnectVehicle.Service.RazorTargetAssemblyInfo.cache
+C:\Users\vpalani2\source\repos\ConnectedVehicle\ConnectVehicle.Service\obj\Debug\netcoreapp2.1\ConnectVehicle.Service.csproj.CopyComplete
+C:\Users\vpalani2\source\repos\ConnectedVehicle\ConnectVehicle.Service\obj\Debug\netcoreapp2.1\ConnectVehicle.Service.dll
+C:\Users\vpalani2\source\repos\ConnectedVehicle\ConnectVehicle.Service\obj\Debug\netcoreapp2.1\ConnectVehicle.Service.pdb

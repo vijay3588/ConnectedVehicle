@@ -1,0 +1,6 @@
+C:\Users\vpalani2\source\repos\ConnectedVehicle\VehicleService\obj\Debug\netcoreapp2.1\ConnectVehicle.Service.csprojAssemblyReference.cache
+C:\Users\vpalani2\source\repos\ConnectedVehicle\VehicleService\obj\Debug\netcoreapp2.1\ConnectVehicle.Service.csproj.CoreCompileInputs.cache
+C:\Users\vpalani2\source\repos\ConnectedVehicle\VehicleService\obj\Debug\netcoreapp2.1\ConnectVehicle.Service.RazorAssemblyInfo.cache
+C:\Users\vpalani2\source\repos\ConnectedVehicle\VehicleService\obj\Debug\netcoreapp2.1\ConnectVehicle.Service.RazorAssemblyInfo.cs
+C:\Users\vpalani2\source\repos\ConnectedVehicle\VehicleService\obj\Debug\netcoreapp2.1\ConnectVehicle.Service.AssemblyInfoInputs.cache
+C:\Users\vpalani2\source\repos\ConnectedVehicle\VehicleService\obj\Debug\netcoreapp2.1\ConnectVehicle.Service.AssemblyInfo.cs
