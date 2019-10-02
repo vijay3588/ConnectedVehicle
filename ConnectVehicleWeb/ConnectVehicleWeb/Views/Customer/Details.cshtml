@@ -1,0 +1,46 @@
+﻿@model IEnumerable<ConnectVehicleWeb.Models.Vehicle>
+
+@{
+    ViewData["Title"] = "Details";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Details</h2>
+
+<p>
+    <a asp-action="CustomerDetails">Back</a>
+</p>
+<table class="table table-bordered">
+    <thead>
+        <tr class="success">
+            <th>
+                @Html.DisplayNameFor(model => model.VIN)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.RegNo)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Status)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.CustomerID)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.VIN)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.RegNo)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Status)
+            </td>
+        </tr>
+}
+    </tbody>
+</table>
