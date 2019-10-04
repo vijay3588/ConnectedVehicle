@@ -1,8 +1,0 @@
-C:\Users\vpalani2\source\repos\ConnectedVehicle\ConnectVehicleService\bin\Debug\netcoreapp2.1\ConnectVehicle.Data.deps.json
-C:\Users\vpalani2\source\repos\ConnectedVehicle\ConnectVehicleService\bin\Debug\netcoreapp2.1\ConnectVehicle.Data.dll
-C:\Users\vpalani2\source\repos\ConnectedVehicle\ConnectVehicleService\bin\Debug\netcoreapp2.1\ConnectVehicle.Data.pdb
-C:\Users\vpalani2\source\repos\ConnectedVehicle\ConnectVehicleService\obj\Debug\netcoreapp2.1\ConnectVehicle.Data.csproj.CoreCompileInputs.cache
-C:\Users\vpalani2\source\repos\ConnectedVehicle\ConnectVehicleService\obj\Debug\netcoreapp2.1\ConnectVehicle.Data.AssemblyInfoInputs.cache
-C:\Users\vpalani2\source\repos\ConnectedVehicle\ConnectVehicleService\obj\Debug\netcoreapp2.1\ConnectVehicle.Data.AssemblyInfo.cs
-C:\Users\vpalani2\source\repos\ConnectedVehicle\ConnectVehicleService\obj\Debug\netcoreapp2.1\ConnectVehicle.Data.dll
-C:\Users\vpalani2\source\repos\ConnectedVehicle\ConnectVehicleService\obj\Debug\netcoreapp2.1\ConnectVehicle.Data.pdb
